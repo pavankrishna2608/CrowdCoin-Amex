@@ -1,5 +1,3 @@
-## UC Berkeley Blockchain Challenge Lab
-
 ### CROWDCOIN
 
 #### Why is the current crowdfunding model not a win-win situation?
@@ -25,13 +23,6 @@ Web app related code under pages folder in index.js (/pages/index.js)
 4. It will start on localhost. 
 5. Open localhost in your browser and see the working . 
 
-#### DEMO Link : https://youtu.be/0npnzoLWCa8
-
-#### We have also included screenshots of the web app into our repo for your reference.
-
-##### Here is the link to our Whitepaper for further details : https://docs.google.com/document/d/1ZQJM0ZvRq40fc3SpjKcZ1IBei-ThmGLK7lCqWjUOpBo/edit#
-
-
-
+#### DEMO Link : https://www.youtube.com/watch?v=CmfNgz2qYg4&t=29s
 
 
